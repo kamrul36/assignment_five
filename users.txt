@@ -1,0 +1,2 @@
+kamrul,kamrul@test.com,$2y$10$bOadkxbS1szI3jZR.LimEePaw58w58T96z4qIQZV.7gzIXiJN0A6e,admin,manager,IT
+sumon,sumon@test.com,$2y$10$7NDkk6Erve9G2SR9SaKff.woQkAKM/zn/51ctiw0bL6Bi9BGI9D1q,user,executive
